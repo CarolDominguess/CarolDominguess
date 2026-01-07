@@ -28,10 +28,11 @@
 
 
 
-## 🛠️ Tecnologias e ferramentas:
-![Html](
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-          )
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Cypress](https://img.shields.io/badge/Cypress-black?logo=cypress)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+</p>
