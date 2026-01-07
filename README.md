@@ -8,22 +8,10 @@
 
 ## 📬 Entre em contato comigo:
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/CarolDominguess" target="_blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
-         alt="GitHub CarolDominguess" 
-         height="30" 
-         width="40" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/anacarolinadominguesdesouza484742239" target="_blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn Ana Carolina" 
-         height="30" 
-         width="40" />
-  </a>
+<a href="https://github.com/CarolDominguess" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"alt="CarolDominguess"height="30"width="40" /></a>
+<a href="https://linkedin.com/in/anacarolinadominguesdesouza484742239" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="Ana Carolina Domingues"height="30"width="40" /></a>
 </p>
 
 ## 🛠️ Tecnologias
