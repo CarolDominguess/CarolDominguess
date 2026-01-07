@@ -1,4 +1,4 @@
-# Olá 👋, sou Ana Carolina
+# Hi 👋, I'm Ana Carolina Domingues
 
 🎯 Analista de QA em formação | Testes Manuais | Automação
 
@@ -7,7 +7,7 @@
 - 📚 Experiência acadêmica em **Qualidade de Software e IHC**
 
 ## 📬 Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/anacarolinadominguesdesouza484742239)
 
 ## 🛠️ Tecnologias e ferramentas:
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
