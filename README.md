@@ -29,7 +29,9 @@
 
 
 ## 🛠️ Tecnologias e ferramentas:
-![Git](https://img.shields.io/badge/Git-black?logo=git)
+![Html](
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          )
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![Cypress](https://img.shields.io/badge/Cypress-black?logo=cypress)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
