@@ -7,7 +7,18 @@
 - 📚 Experiência acadêmica em **Qualidade de Software e IHC**
 
 ## 📬 Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/anacarolinadominguesdesouza484742239)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anacarolinadominguesdesouza484742239)
+
+<p align="left">
+  <a href="https://github.com/CarolDominguess" target="_blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+         height="30" 
+         width="40" />
+  </a>
+</p>
+
 
 ## 🛠️ Tecnologias e ferramentas:
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
