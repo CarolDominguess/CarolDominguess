@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá 👋, sou Ana Carolina
 
-<!--
-**CarolDominguess/CarolDominguess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de QA em formação | Testes Manuais | Automação
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estudando **Cypress, API Testing e Git**
+- 💼 Em busca de oportunidades como **QA Júnior**
+- 📚 Experiência acadêmica em **Qualidade de Software e IHC**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Entre em contato comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](SEU_LINK_AQUI)
+
+## 🛠️ Tecnologias e ferramentas:
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Cypress](https://img.shields.io/badge/Cypress-black?logo=cypress)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
