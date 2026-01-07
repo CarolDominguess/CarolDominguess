@@ -8,16 +8,24 @@
 
 ## 📬 Entre em contato comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anacarolinadominguesdesouza484742239)
-
 <p align="left">
   <a href="https://github.com/CarolDominguess" target="_blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+         alt="GitHub CarolDominguess" 
+         height="30" 
+         width="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/anacarolinadominguesdesouza484742239" target="_blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn Ana Carolina" 
          height="30" 
          width="40" />
   </a>
 </p>
+
 
 
 ## 🛠️ Tecnologias e ferramentas:
