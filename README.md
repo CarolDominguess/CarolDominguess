@@ -2,7 +2,8 @@
 
 🎯 Analista de QA em formação | Testes Manuais | Automação
 
-- 🌱 Atualmente estudando **Cypress, API Testing e Git**
+- 🎓 Bacharel em Sistemas de Informação
+- 🌱 Cypress | Testes de API | Git | Preparação para CTFL (ISTQB) 
 - 💼 Em busca de oportunidades como **QA Júnior**
 - 📚 Experiência acadêmica em **Qualidade de Software e IHC**
 
