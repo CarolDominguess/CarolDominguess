@@ -32,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />
 </p>
 
-[![Cypress Tests](https://github.com/CarolDominguess/qa-automation-portfolio/actions/workflows/automation.yml/badge.svg)](https://github.com/CarolDominguess/qa-automation-portfolio/actions/workflows/automation.yml)
 
 
 
