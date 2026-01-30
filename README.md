@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ana Carolina Domingues
 
-🎯 Analista de QA em formação | Testes Manuais | Automação
+🎯 Quality Assurance | Testes Manuais & Automação | CTFL em andamento | Metodologias Ágeis
 
 - 🎓 Bacharel em Sistemas de Informação
 - 🌱 Cypress | Testes de API | Git | Preparação para CTFL (ISTQB) 
